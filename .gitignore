@@ -1,0 +1,59 @@
+# Node.js dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Build output
+/build
+
+# Cache
+.npm
+.cache
+/dist
+/out
+
+# Next.js
+.next
+out
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+/dist
+
+# Serverless directories
+/.serverless
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# dotenv environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+*.log
+*.lock
